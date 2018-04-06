@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.grj</groupId>
-	<artifactId>ajaxpolling</artifactId>
+	<artifactId>ajaxtest</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ajaxpolling Maven Webapp</name>
+	<name>ajaxtest Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 
@@ -23,6 +23,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>ajaxpolling</finalName>
+		<finalName>ajaxtest</finalName>
 	</build>
 </project>

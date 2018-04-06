@@ -1,4 +1,4 @@
-package com.grj.ajaxpolling;
+package com.grj.ajax;
 
 import java.io.IOException;
 
